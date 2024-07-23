@@ -1,0 +1,90 @@
+name,name_meaning,class,constellation,ra,dec
+Apus,Bird of Paradise,animal,Aps,16,-77
+Aquila,Eagle,animal,Aql,20,5
+Aries,Ram,animal,Ari,2.4,22
+Camelopardus,Giraffe,animal,Cam,5.4,73
+Capricornus,Sea goat,animal,Cap,20.9,-24
+Chamaeleon,Chameleon,animal,Cha,10.8,-81
+Canis Major,Big dog,animal,CMa,6.45,-26
+Canis Minor,Little dog,animal,CMi,7.5,3
+Cancer,Crab,animal,Cnc,8.4,20
+Columba,Dove,animal,Col,5.7,-32
+Corvus,Crow,animal,Crv,12.5,-14
+Canes Venatici,Hunting dogs,animal,Cvn,13.2,42
+Cygnus,Swan,animal,Cyg,20.9,39
+Delphinus,Porpoise,animal,Del,20.8,18
+Dorado,Swordfish,animal,Dor,5.2,-63
+Equuleus,Little horse,animal,Equ,20.9,6
+Grus,Crane,animal,Gru,21.8,-45
+Hydrus,Water snake,animal,Hyi,2.9,-72
+Lacerta,Lizard,animal,Lac,22.1,47
+Leo,Lion,animal,Leo,10.5,17
+Lepus,Hare,animal,Lep,5.5,-24
+Leo Minor,Little lion,animal,LMi,10.5,32
+Lupus,Wolf,animal,Lup,15.2,-45
+Lynx,Lynx,animal,Lyn,8,43
+Musca,Fly,animal,Mus,13,-70
+Pavo,Peacock,animal,Pav,19.5,-68
+Piscis Austrinus,Southern fish,animal,PsA,22,-26
+Pisces,Fishes,animal,Psc,1,13
+Scorpius,Scorpion,animal,Sco,17.2,-35
+Serpens,Serpent,animal,Ser,18.1,-2
+Serpens Caput,Serpent Head,animal,SerCap,15.8,1
+Taurus,Bull,animal,Tau,5,21
+Tucana,Toucan,animal,Tuc,23.4,-62
+Ursa Major,Big bear,animal,UMa,11,50
+Ursa Minor,Little bear,animal,UMi,15,70
+Volans,Flying fish,animal,Vol,7.9,-66
+Vulpecula,Fox,animal,Vul,20,25
+Centaurus,Centaur,character,Cen,13,-44
+Cetus,Sea monster,character,Cet,2,-8
+Draco,Dragon,character,Dra,17.7,65
+Hydra,Sea serpent,character,Hya,10,-18
+Monoceros,Unicorn,character,Mon,7.4,-5
+Pegasus,Winged horse,character,Peg,22.6,20
+Phoenix,Phoenix,character,Phe,0.1,-50
+Andromeda,Princess of Ethiopia,character,And,1.35,42
+Aquarius,Water bearer,character,Aqr,22.35,-15
+Auriga,Charioteer,character,Aur,5.5,40
+Bootes,Herdsman,character,Boo,14.8,37
+Cassiopeia,Queen of Ethiopia,character,Cas,1.3,57
+Cepheus,King of Ethiopia,character,Cep,22.4,70
+Coma Berenices,Berenice’s hair,character,Com,12.6,20
+Gemini,Twins,character,Gem,7.1,25
+Hercules,Son of Zeus,character,Her,17.1,41
+Indus,Indian,character,Ind,21.6,-55
+Ophiuchus,Serpent holder,character,Oph,17,-4
+Orion,The hunter,character,Ori,5.3,10
+Perseus,Hero who saved Andromeda,character,Per,3.5,43
+Sagittarius,Archer,character,Sgr,19.5,-33
+Virgo,Virgin,character,Vir,13.2,-2
+Antila,Air pump,object,Ant,9.9,-33
+Ara,Altar,object,Ara,17.2,-48
+Caelum,Graving tool,object,Cae,5,-40
+Carina,Keel of Argonauts’ ship,object,Car,9,-60
+Circinus,Compasses,object,Cir,14.5,-67
+Corona Australis,Southern crown,object,CrA,18.4,-41.5
+Corona Borealis,Northern crown,object,CrB,16.1,31.5
+Crater,Cup,object,Crt,11.6,-20
+Crux,Southern cross,object,Cru,12.25,-62
+Eridanus,River,object,Eri,4,-16
+Fornax,Furnace,object,For,2.5,-33
+Horologium,Clock,object,Hor,2.7,-61
+Libra,Balance,object,Lib,15.2,-16
+Lyra,Harp,object,Lyr,19,39
+Mensa,Table mountain,object,Men,5.3,-72
+Microscopium,Microscope,object,Mic,21,-35
+Norma,Carpenter’s level,object,Nor,15.8,-53
+Octans,Octant,object,Oct,22,-85
+Pictor,Easel,object,Pic,5.5,-53
+Puppis,Stern of the Argonauts’ ship,object,Pup,7.8,-36
+Pyxis,Compass of the Argonauts’ ship,object,Pyx,9.1,-30
+Reticulum,Net,object,Ret,3.9,-58
+Sculptor,Sculptor’s tools,object,Scl,0,-28
+Scutum,Shield,object,Sct,18.9,-12
+Sextans,Sextant,object,Sex,10.4,-3
+Sagitta,Arrow,object,Sge,19.4,18
+Telescopium,Telescope,object,Tel,18.8,-51
+Triangulum Australe,Southern triangle,object,Tra,16,-65
+Triangulum,Triangle,object,Tri,2,30
+Vela,Sail of the Argonauts’ ship,object,Vel,9,-50
